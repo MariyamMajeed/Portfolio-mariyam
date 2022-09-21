@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/Portfolio-mariyam/static/css/main.319b8ba0.css",
-    "main.js": "/Portfolio-mariyam/static/js/main.dbaa56c1.js",
+    "main.js": "/Portfolio-mariyam/static/js/main.c9481f95.js",
     "static/media/abu.jpeg": "/Portfolio-mariyam/static/media/abu.2cf29d5145ec5fdd08cf.jpeg",
-    "static/media/me2.jpeg": "/Portfolio-mariyam/static/media/me2.26b546dfd98d6dda2d9c.jpeg",
+    "static/media/jig.webp": "/Portfolio-mariyam/static/media/jig.072868dbe6aba364b84e.webp",
     "static/media/weath1.jpg": "/Portfolio-mariyam/static/media/weath1.670c219675c2ee881350.jpg",
-    "static/media/cv.pdf": "/Portfolio-mariyam/static/media/cv.5343071c83adc17be399.pdf",
+    "static/media/cv22.pdf": "/Portfolio-mariyam/static/media/cv22.1c4d21b8cf985aa32a22.pdf",
     "index.html": "/Portfolio-mariyam/index.html",
     "main.319b8ba0.css.map": "/Portfolio-mariyam/static/css/main.319b8ba0.css.map",
-    "main.dbaa56c1.js.map": "/Portfolio-mariyam/static/js/main.dbaa56c1.js.map"
+    "main.c9481f95.js.map": "/Portfolio-mariyam/static/js/main.c9481f95.js.map"
   },
   "entrypoints": [
     "static/css/main.319b8ba0.css",
-    "static/js/main.dbaa56c1.js"
+    "static/js/main.c9481f95.js"
   ]
 }
