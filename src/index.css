@@ -11,6 +11,7 @@
 }
 
 :root {
+  /* earthish color palette */
   /* --color-bg: #d39e45;
   --color-bg-variant: #d47751;
   --color-primary: #f3d1c3;
@@ -18,12 +19,21 @@
   --color-white: #fff;
   --color-light: rgba(255, 255, 255, 0.6); */
 
+  /* og blue color palette */
   --color-bg: #1f1f38;
   --color-bg-variant: #2c2c6c;
   --color-primary: #4db5ff;
   --color-primary-variant: rgba(77, 181, 255, 0.4);
   --color-white: #fff;
   --color-light: rgba(255, 255, 255, 0.6);
+
+  /* Olive Color palette */
+  /* --color-bg: #414016;
+  --color-bg-variant: #6e7a31;
+  --color-primary: #a7b987;
+  --color-primary-variant: rgba(222, 218, 173);
+  --color-white: #fff;
+  --color-light: rgba(255, 255, 255, 0.6); */
 
   --transition: all 400ms ease;
 
